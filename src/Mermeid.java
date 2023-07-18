@@ -1,9 +1,9 @@
 public class Mermeid extends Animal{
     static void homeMermeid(){
-        System.out.println("Atlantida");
+        System.out.println("Mermeid live in : Atlantida");
     }
     static  void  friends(){
-        System.out.println("Fish : Flounder, Crab:Sebastian");
+        System.out.println("Friends: Flounder,Sebastian");
     }
     public Mermeid(String name, int age) {
         super(name, age);
